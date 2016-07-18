@@ -4,7 +4,7 @@
 
 A [Hyperterm](https://hyperterm.org/) theme based on the [Zenburn](http://kippura.org/zenburnpage/) theme by Jani Nurminen.
 
-![Zenburn Hyperterm](https://www.dropbox.com/s/kprtnwzefg2617i/Screenshot%202016-07-18%2010.07.57.png?dl=0)
+![Zenburn Hyperterm](https://www.dropbox.com/s/kprtnwzefg2617i/Screenshot%202016-07-18%2010.07.57.png)
 
 ### Installation
 1. Open HyperTerm's preferences by pressing `Cmd+,` or manually at `~/.hyperterm.js`.
